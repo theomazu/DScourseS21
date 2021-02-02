@@ -1,0 +1,24 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{DScourseSpring21}
+\author{Theo Mazunga }
+\date{February 2021}
+
+\usepackage{natbib}
+\usepackage{graphicx}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+I graduated at OU with a BA degree and had taken a high liking to working with analytical software. I wanted to explore this a lot more - but within an economics standpoint and my current Econ MA + Data Emphasis program presented me the opportunity to do so. 
+
+I wanted to take this class as it had the majority (if not all) the software I have been wanted to become familiar or versed in - additionally I would hope I could market myself better as a data analyst - academically or career-wise- having been familiar with these software. My project will most likely be analysis some aspect of the Botswana economy (my home country), I have come across census data and other reports (from the World Bank or Statistics Botswana website) that may help with my topic and analysis. My goals are to refine (if not keep building) and become more confident in my research and data science workflow process. After graduating, I am hoping to have some kind of employment or internship to sharpen my expertise and become a career oriented individual.
+
+\section{Equation}
+
+\[a^2+b^2=c^2\]
+
+\end{document}
